@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cn.edu.tongji.sxjm.process.AllocationCar
+Class-Path: . lib/jxl.jar
+Created-By: keller
